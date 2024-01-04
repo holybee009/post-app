@@ -1,0 +1,17 @@
+.header {
+  background-color: rgb(145, 84, 202);
+  display: flex;
+  justify-content: space-between;
+  padding: 0rem 7rem;
+  align-items: center;
+}
+
+.button {
+  height: 2rem;
+  border-radius: 6px;
+  border: none;
+}
+
+.button:hover {
+  cursor: pointer;
+}
